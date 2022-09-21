@@ -28,7 +28,7 @@ public class FilteringDemo
             //objectMessage.setIntProperty("hospitalId", 1);
             //objectMessage.setDoubleProperty("claimAmount", 1000);
             //objectMessage.setStringProperty("doctorName", "John");
-            objectMessage.setStringProperty("hospitalName", "om");
+            objectMessage.setStringProperty("battay", "om");
             Claim claim = new Claim();
             claim.setHospitalId(1);
             claim.setClaimAmount(1009);
